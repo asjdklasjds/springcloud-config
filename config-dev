@@ -1,2 +1,2 @@
-application:
-  config: 'dev'
+config:
+  info: springcloud-config-dev,version1.0
